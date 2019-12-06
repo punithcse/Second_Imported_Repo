@@ -1,3 +1,4 @@
+# Inheritance Example
 class Base_Model():
 	trim = 'normal'
 	en_li = 1.5
