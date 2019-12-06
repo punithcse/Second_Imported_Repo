@@ -1,3 +1,4 @@
+# Started learning properties of python
 ''' Demonstrate class properties '''
 class Grader():
 	def __init__(self, score=0):
