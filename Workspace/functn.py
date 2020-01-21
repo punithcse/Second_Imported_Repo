@@ -1,3 +1,4 @@
+#updating function file..!!!
 import random
 faces = ('heads','tails')
 
